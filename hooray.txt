@@ -1,0 +1,1 @@
+Figured out how to clone files from other github repo to a new one without also cloning the git working tree or w/e.
